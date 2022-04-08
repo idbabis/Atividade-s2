@@ -1,5 +1,5 @@
 # Atividade-s2
-Essa atividade tem por objetivo prático, realizar um arquivo com extensão .js para alguma atividades propostas do curso #Reprograma da semana 2.
+Essa atividade tem por objetivo prático, realizar um arquivo com extensão .js para algumas atividades propostas do curso #Reprograma da semana 2.
 
 Segue alguns exercícios de Java Script que aprendi a realizar com alguns algoritmos passado pela Prof. Simara no curso #reprograma.
 Confesso não ter entendido muito bem, fiquei um pouco confusa no começo, mas depois da segunda aula sobre o assunto comecei a desenrolar melhor.
